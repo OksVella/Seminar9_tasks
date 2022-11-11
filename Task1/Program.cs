@@ -3,9 +3,6 @@
 int n = 8;
 PrintValues();
 
-
-
-
 void PrintValues()
 {
     if (n >= 1)
